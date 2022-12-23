@@ -5,7 +5,7 @@ The sketch counts down to Christmas Day and displays it on the OLED display
 
 ### Acknowledgements
 
-> This site was built using  code from [Volos Projects](https://github.com/VolosR).
+> This site was built using code from [Volos GitHub Projects](https://github.com/VolosR).
 > 
 > His youTube here. [Volos youTube](https://www.youtube.com/c/VolosProjects/videos).
 > 
@@ -22,7 +22,7 @@ This code has been tested on the following boards
 
 | Name                    | Description              | Part Number       | Website         |
 | ------------------------|--------------------------|-------------------|-----------------|
-| TTGO Display Board      | ESP32 Based OLED Display | Unknown | www.ttgo.com |
+| TTGO Display Board      | TTGO T-Display ESP32 WiFi and Bluetooth Module Development | Version [CH9102]: T-Display 4M [Q224] | [Website](http://www.lilygo.cn/prod_view.aspx?TypeId=50062&Id=1400&FId=t3:50062:3)|
 | TTLYGO Board ||||
 | Enter new board | | |
 
@@ -30,9 +30,9 @@ This code has been tested on the following boards
 
 #### Parts BOM
 
-| Name                    | Description             | Part Number       | Qty    | Website       |
+| Name                    | Description             | Part Number       | Quantity    | Website       |
 |-------------------------|-------------------------|-------------------|--------|---------------|
-| TTGO ESP32 OLED Display | OLED Display 0.96" | 1234ABC | 1  | www.ttgo.com |
+| TTGO ESP32 OLED Display | OLED Display 0.96" | Version [CH9102]: T-Display 4M [Q224] | 1  | [Purchase](http://www.lilygo.cn/prod_view.aspx?TypeId=50062&Id=1400&FId=t3:50062:3) |
 | Enter new part | | | | |
 
 
